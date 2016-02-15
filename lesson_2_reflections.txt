@@ -17,3 +17,11 @@ Brances are usefull when you want to make some differnt development directions i
 How do the diagrams help you visualize the branch structure?
 
 You can see the commits accessible for each branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The code will be merged according to the merging rules. This is done to see, that the merging took place.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is faster, but it is not always possible. In this case we use manual merging.
